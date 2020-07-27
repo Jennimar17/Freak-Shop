@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
 body {
     font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
 }
 
 .logo img {
@@ -98,3 +99,4 @@ a:visited {
     font-size: 40px;
     margin: 0px;
 }
+
